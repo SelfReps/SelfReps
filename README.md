@@ -7,4 +7,5 @@ My Main Language Is Python But hoping throughout my Github journy I divulge into
 
 # Socials
 
-https://raw.githubusercontent.com/Fweak/Fweak/master/TwitterLogo.png
+![alt text](https://raw.githubusercontent.com/Fweak/Fweak/master/TwitterLogo.png "Twitter")
+
